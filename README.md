@@ -191,4 +191,4 @@ Happy detecting!
 
 ## Contact
 - Ritik Patel - [ritik.patel129@gmail.com]
-- Project Link: [https://github.com/thatritikpatel/sensor_fault_detection/tree/main]
+- Project Link: [https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2]
