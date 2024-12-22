@@ -144,13 +144,22 @@ This project utilizes the following models for detection:
 Below are some examples of the detection results:
 
 ### Face Detection
-![Face Detection](results/face_detection_example.jpg)
+![Face Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/face.jpg)
 
 ### Cat Detection
-![Cat Detection](results/cat_detection_example.jpg)
+![Cat Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/cats.png)
 
 ### Pedestrian Detection
-![Pedestrian Detection](results/pedestrian_detection_example.jpg)
+![Pedestrian Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/pedestrain.jpg)
+
+### FullBody Detection
+![Full Body Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/body.jpg)
+
+### Number Plate Detection
+![Full Body Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/numberplate.png)
+
+### Smile Detection
+![Smile Detection](https://github.com/thatritikpatel/Real-Time-Object-Detection-with-OpenCV2/blob/main/results/smile.jpg)
 
 
 
