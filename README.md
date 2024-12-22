@@ -188,3 +188,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 Happy detecting!
 "# Real-Time-Object-Detection-with-OpenCV2" 
+
+## Contact
+- Ritik Patel - [ritik.patel129@gmail.com]
+- Project Link: [https://github.com/thatritikpatel/sensor_fault_detection/tree/main]
